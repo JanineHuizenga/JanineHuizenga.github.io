@@ -9,7 +9,7 @@ title: Hello World
 
 First post on my Github Jekyll page on the first day of the BioHack Academy
 
-![image description blablab](biohack_academy02.jpg)
+![image description blablab](/images/biohack_academy02.jpg)
 
 **bold**
 
