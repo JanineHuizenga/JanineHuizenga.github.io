@@ -14,3 +14,8 @@ We used a powder pre-fabricated medium and we tried to use household ingredients
 
 ![images](http://JanineHuizenga.github.io/images/AGRA.jpg)
 
+
+We then put the solutions in petri dishes, making sure this was done in a sterile (enough) environment - work close to the flame!
+
+![images](http://JanineHuizenga.github.io/images/PETRI.jpg)
+
