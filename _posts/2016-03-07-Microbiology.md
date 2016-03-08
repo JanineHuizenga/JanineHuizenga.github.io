@@ -25,5 +25,7 @@ We then put the solutions in petri dishes, making sure this was done in a steril
 
 Today we prepared two liquid media: one based on Spirulina (a blue-green algae) and one based on Kombucha (or SCOBY: Symbiotic Culture of Bacteria and Yeasts)
 
+We then performed an ecotoxicological experiment, to understand how to get information on the potential impact of a chemical on an ecosystem before it has caused any damage to that ecosystem. For this experiment we used Daphnia or waterfleas. First we had to create a solution in which they would feel well. For this we 
+
 
 
