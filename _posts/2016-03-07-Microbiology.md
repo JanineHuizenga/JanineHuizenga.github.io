@@ -57,6 +57,13 @@ Unfortunately all Daphnia died... For more insight on the test check out Roland-
 
 # Finding antibiotics in plants
 
+![images](http://JanineHuizenga.github.io/images/Antibiotics1.jpg)
+![images](http://JanineHuizenga.github.io//images/Antibiotics2.jpg)
+![images](http://JanineHuizenga.github.io/images/Antibiotics3.jpg)
+![images](http://JanineHuizenga.github.io/images/Antibiotics4.jpg)
+![images](http://JanineHuizenga.github.io/images/Antibiotics5.jpg)
+![images](http://JanineHuizenga.github.io/images/Antibiotics6.jpg)
+![images](http://JanineHuizenga.github.io/images/Antibiotics7.jpg)
 
 
 
