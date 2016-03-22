@@ -28,14 +28,14 @@ Today we prepared two liquid media: one based on Spirulina (a blue-green algae) 
 We then performed an ecotoxicological experiment, to understand how to get information on the potential impact of a chemical on an ecosystem before it has caused any damage to that ecosystem. For this experiment we used Daphnia (water fleas). 
 ![images](http://JanineHuizenga.github.io/images/Daphnia.mov)
 
-First we had to create a solution in which they would feel well, this is the 'control' environment.  We gradually added Ethanol to the mixture to see at which stage contamination would take place and actually kill the water fleas. This was done in 5 steps, with one step having no Ethanol added (the control environment). It is important to do the test twice simultaneously, in other words, have 2 times the test bottles, in order to truely validate the outcome.
+First we had to create a solution in which they would feel well, this is the 'control' environment.  We gradually added Ethanol to the mixture to see at which stage contamination would take place and actually kill the water fleas. This was done in 5 steps, with one step having no Ethanol added (the control environment). It is important to do the test twice simultaneously, in other words, have 2 times the test bottles, in order to validate the outcome.
 ![images](http://JanineHuizenga.github.io/images/Daphnia1.jpg)
 
 With a pipet we 'caught' 5 water fleas per test bottle (50 in total) and released them in the test environments.
 ![images](http://JanineHuizenga.github.io/images/Daphnia2.jpg)
 ![images](http://JanineHuizenga.github.io/images/Daphnia3.jpg)
 
-Unfortunately all Daphnia died... For more insight on the test check out Roland-Daphnia van Dierendonck's blog http://ro91.github.io/Daphnia-Experiment/
+Unfortunately all Daphnia died... For more insight on the test check out Roland-Daphnia-van-Dierendonck's blog http://ro91.github.io/Daphnia-Experiment/
 
 
 
