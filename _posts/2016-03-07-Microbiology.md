@@ -35,6 +35,9 @@ With a pipet we 'caught' 5 water fleas per test bottle (50 in total) and release
 ![images](http://JanineHuizenga.github.io/images/Daphnia2.jpg)
 ![images](http://JanineHuizenga.github.io/images/Daphnia3.jpg)
 
+Unfortunately all Daphnia died... For more insight on the test go to Roland (Daphnia) van Dierendonck's blog http://ro91.github.io/Daphnia-Experiment/
+
+
 
 
 
