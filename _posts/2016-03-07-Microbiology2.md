@@ -13,6 +13,7 @@ published: true
 ![images](http://JanineHuizenga.github.io/images/Bacteria4.jpg)
 ![images](http://JanineHuizenga.github.io/images/Bacteria5.jpg)
 ![images](http://JanineHuizenga.github.io/images/Bacteria6.jpg)
+![images](http://JanineHuizenga.github.io/images/Bacteria7.jpg)
 
 
 # Electronics for the incubator
