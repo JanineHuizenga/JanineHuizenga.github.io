@@ -45,7 +45,7 @@ Unfortunately all Daphnia died... For more insight on the test check out Roland-
 ![images](http://JanineHuizenga.github.io/images/Bacteria4.jpg)
 ![images](http://JanineHuizenga.github.io/images/Bacteria5.jpg)
 ![images](http://JanineHuizenga.github.io/images/Bacteria6.jpg)
-![images](http://JanineHuizenga.github.io/images/Bacteria7.jpg)
+
 
 
 # Electronics for the incubator
@@ -64,6 +64,7 @@ Unfortunately all Daphnia died... For more insight on the test check out Roland-
 ![images](http://JanineHuizenga.github.io/images/Antibiotics5.jpg)
 ![images](http://JanineHuizenga.github.io/images/Antibiotics6.jpg)
 ![images](http://JanineHuizenga.github.io/images/Antibiotics7.jpg)
+![images](http://JanineHuizenga.github.io/images/Bacteria7.jpg)
 
 
 
