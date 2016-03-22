@@ -21,7 +21,7 @@ We then put the solutions in petri dishes, making sure this was done in a steril
 ![images](http://JanineHuizenga.github.io/images/PETRI2.jpg)
 
 
-# Week 3 - Day 2
+# Liquid media and ecotoxicological experiment
 
 Today we prepared two liquid media: one based on Spirulina (a blue-green algae) and one based on Kombucha (or SCOBY: Symbiotic Culture of Bacteria and Yeasts)
 
