@@ -5,7 +5,7 @@ published: true
 ---
 
 
-# Week 3 - Day 1
+# Making a medium
 
 Yesterday we were introduced to the making of Agar (agar-agar), a jelly like substance obtained from Algae. In Asia it is widely used as a gelatine for deserts but in microbiology it is used as a compound of a medium to grow bacteria on.
 
@@ -36,6 +36,24 @@ With a pipet we 'caught' 5 water fleas per test bottle (50 in total) and release
 ![images](http://JanineHuizenga.github.io/images/Daphnia3.jpg)
 
 Unfortunately all Daphnia died... For more insight on the test check out Roland-Daphnia-van-Dierendonck's blog http://ro91.github.io/Daphnia-Experiment/
+
+# Cultivating bacteria
+
+![images](http://JanineHuizenga.github.io/images/Bacteria1.jpg)
+![images](http://JanineHuizenga.github.io//images/Bacteria2.jpg)
+![images](http://JanineHuizenga.github.io/images/Bacteria3.jpg)
+![images](http://JanineHuizenga.github.io/images/Bacteria4.jpg)
+![images](http://JanineHuizenga.github.io/images/Bacteria5.jpg)
+![images](http://JanineHuizenga.github.io/images/Bacteria6.jpg)
+![images](http://JanineHuizenga.github.io/images/Bacteria7.jpg)
+
+
+# Electronics for the incubator
+
+![images](http://JanineHuizenga.github.io/images/IncubatorElectr1.jpg)
+![images](http://JanineHuizenga.github.io//images/IncubatorElectr2.jpg)
+![images](http://JanineHuizenga.github.io/images/IncubatorElectr3.jpg)
+
 
 
 
