@@ -69,8 +69,3 @@ Unfortunately all Daphnia died... For more insight on the test check out Roland-
 
 # Staining bio samples
 
-![images](http://JanineHuizenga.github.io/["images"]/Staining2.jpg
-![images](http://JanineHuizenga.github.io//["images"]/Staining3.jpg
-![images](http://JanineHuizenga.github.io/["images"]/Staining4.jpg
-![images](http://JanineHuizenga.github.io/["images"]/Staining5.jpg
-
